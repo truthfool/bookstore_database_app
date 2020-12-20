@@ -1,3 +1,3 @@
 # Bookstore Database Application
 
-![](http://url/to/img.png)
+![](https://github.com/truthfool/bookstore_database_app/blob/master/sample/img1.png)
